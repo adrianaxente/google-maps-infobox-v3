@@ -1,6 +1,6 @@
 /**
  * @name InfoBox
- * @version 1.1.15 [September 17, 2015]
+ * @version 1.1.16 [September 17, 2015]
  * @author Axente Adrian (Initial Commit Gary Little (inspired by proof-of-concept code from Pamela Fox of Google))
  * @copyright Copyright 2010 Axente Adrian [adrianaxente at yahoo.com]
  * @fileoverview InfoBox extends the Google Maps JavaScript API V3 <tt>OverlayView</tt> class.
